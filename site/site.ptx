@@ -1,0 +1,4 @@
+<site>
+    <sitename>Overriding the title here...</sitename>
+    <site-description>I can write whatever here, even &lt;em&gt;HTML&lt;/em&gt;!</site-description>
+</site>
